@@ -36,7 +36,6 @@ Cada contribució fa créixer **EverPia** 🌍
 ### 🔹 [**Tasca 02**](t02)  
 ### 🔹 [**Tasca 03**](t03)
 
----
 
 > 🌱 _Un projecte viu, obert i en constant evolució._  
 > 💫 **Benvingut/da a EverPia.**
