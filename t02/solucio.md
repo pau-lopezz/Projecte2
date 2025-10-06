@@ -59,9 +59,9 @@ Per això, necessitem un SAI que pugui mantenir aquesta càrrega durant almenys 
 
 | Model | Potència | Autonomia estimada | Preu aprox. | Observacions |
 |--------|-----------|--------------------|--------------|---------------|
-| **Salicru SPS ONE 1500VA** | 1500 VA / 900 W | 10–12 min a mitja càrrega | 175 € | Marca espanyola, bona relació qualitat/preu |
-| **Riello Sentinel Pro SEP 1500** | 1500 VA / 1350 W | ≥ 10 min (configurable) | 610 € | Alta qualitat, professional, fiable |
-| **Tecnoware Era Plus 1500VA** | 1500 VA / 900 W | 8–10 min a mitja càrrega | 110 € | Econòmic, per usos d’oficina bàsics |
+| [**Salicru SPS ONE 1500VA**](https://gangaelectronica.es/sais/195980-sai-linea-interactiva-salicru-sps-1500-one-v2-1500va-900w-4-salidas-formato-torre-8436584870210.html?utm_source=chatgpt.com) | 1500 VA / 900 W | 10–12 min a mitja càrrega | 175 € | Marca espanyola, bona relació qualitat/preu |
+| [**Riello Sentinel Pro SEP 1500**](https://www.carrefour.es/sai-riello-sentinel-pro-sep-1500-1500va-1350w/8023251002694/p?utm_source=chatgpt.com) | 1500 VA / 1350 W | ≥ 10 min (configurable) | 610 € | Alta qualitat, professional, fiable |
+| [**Tecnoware Era Plus 1500VA**](https://www.pccomponentes.com/sai-tecnoware-era-plus-1500-sai-linea-interactiva-1500va-1050w-con-2-salidas-schuko?utm_source=chatgpt.com) | 1500 VA / 900 W | 8–10 min a mitja càrrega | 110 € | Econòmic, per usos d’oficina bàsics |
 
 ---
 
@@ -76,7 +76,7 @@ S’ha calculat que la potència total dels equips és de **900 W**, afegint un 
 - Tecnoware Era Plus 1500VA
 
 ### Selecció final
-**Recomanació:** *Tecnoware Era Plus 1500VA*  
+**Recomanació:** [*Tecnoware Era Plus 1500VA*](https://www.pccomponentes.com/sai-tecnoware-era-plus-1500-sai-linea-interactiva-1500va-1050w-con-2-salidas-schuko?utm_source=chatgpt.com)  
 Recomano personalment el **Tecnoware Era Plus** per la seva potència i autonomia suficient, que garanteix un ús prolongat sense problemes.  
 A més, ofereix una **relació qualitat-preu molt interessant**, ja que no té un preu molt elevat però manté bones característiques comparat amb altres opcions.
 ```
