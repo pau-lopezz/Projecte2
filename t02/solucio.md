@@ -81,7 +81,7 @@ Recomano personalment el **Tecnoware Era Plus** per la seva potència i autonomi
 A més, ofereix una **relació qualitat-preu molt interessant**, ja que no té un preu molt elevat però manté bones característiques comparat amb altres opcions.
 
 
-![Tecnoware UPS ERA Plus 1500 – SAI line-interactive de 1500 VA / 1050 W amb 2 preses Schuko, protecció contra talls i pujades de tensió, ideal per ordinadors i equips electrònics.](./img/imatge01.png))
+![Tecnoware UPS ERA Plus 1500 – SAI line-interactive de 1500 VA / 1050 W amb 2 preses Schuko, protecció contra talls i pujades de tensió, ideal per ordinadors i equips electrònics.](./img/imatge01.png)
 
 --- 
 [← Torna a enunciat](README.md)
