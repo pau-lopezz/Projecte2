@@ -1,7 +1,35 @@
 # Projecte 2
 ## Introducció: EverPia
 
-Us donem la benvinguda a la vostra nova aventura professional a EverPia, una consultora IT pionera en solucions tecnològiques innovadores. 
-Avui comenceu el vostre viatge com a consultors júnior en una empresa nascuda de la passió per la tecnologia i l'educació.
+# 🌿 **EverPia**
+
+**EverPia** es un espacio digital creado para **conectar ideas, personas y proyectos** en torno a la colaboración, la creatividad y el crecimiento sostenible.  
+Un lugar donde la innovación se une con la comunidad. 💡
+
+---
+
+## ✨ **Características principales**
+
+- **Interfaz simple** y fluida para todos los usuarios.  
+- **Colaboración en tiempo real** entre equipos.  
+- **Personalización total** según tus necesidades.  
+- Compromiso con la **sostenibilidad** y la **ética digital**.
+
+---
+
+## 🚀 **Comienza en pocos pasos**
+
+1. Crea tu cuenta.  
+2. Configura tu espacio.  
+3. Invita a tu equipo y empieza a construir juntos.  
+
+---
+
+## 🤝 **Colabora**
+
+Aporta tus ideas, mejora el proyecto o comparte tu experiencia.  
+Cada contribución hace crecer a **EverPia** 🌍
+
+
 - [Tasca 02](t02)
 - [Tasca 03](t03)
