@@ -47,3 +47,9 @@ Redactar un **informe tècnic** que inclogui:
 - Càlculs realitzats  
 - Models analitzats  
 - Justificació de la selecció final
+
+  ---
+
+  ## Solució
+
+  Teniu la solució en l'arxiu del següent enllaç : [Solució](solucio.md)
