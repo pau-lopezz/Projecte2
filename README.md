@@ -6,3 +6,4 @@ Mitjançant un mapa interactiu i una comunitat activa, permet descobrir espais d
 L’objectiu d’EverPia és connectar persones amb el territori, fomentant el coneixement i el respecte pel nostre entorn a través de la tecnologia i la col·laboració oberta.
 
 - [Tasca 02](t02)
+- [Tasca 03](t03)
