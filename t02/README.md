@@ -54,4 +54,4 @@ Redactar un **informe tècnic** que inclogui:
 
   Teniu la solució en l'arxiu del següent enllaç : [Solució](solucio.md)
   
-  ![Tornar pàgina projecte](README.md)
+  ![Tornar pàgina projecte](Projecte2/README.md)
