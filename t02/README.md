@@ -1,6 +1,7 @@
 # Descripció de la tasca 2
 ## Enunciat
 
+---
 
 ### Estudi i tria d’un SAI per a TecnoGestió S.L.
 
