@@ -79,6 +79,6 @@ S’ha calculat que la potència total dels equips és de **900 W**, afegint un 
 **Recomanació:** [*Tecnoware Era Plus 1500VA*](https://www.pccomponentes.com/sai-tecnoware-era-plus-1500-sai-linea-interactiva-1500va-1050w-con-2-salidas-schuko?utm_source=chatgpt.com)  
 Recomano personalment el **Tecnoware Era Plus** per la seva potència i autonomia suficient, que garanteix un ús prolongat sense problemes.  
 A més, ofereix una **relació qualitat-preu molt interessant**, ja que no té un preu molt elevat però manté bones característiques comparat amb altres opcions.
-```
+
 
 [![Tecnoware UPS ERA Plus 1500 – SAI line-interactive de 1500 VA / 1050 W amb 2 preses Schuko, protecció contra talls i pujades de tensió, ideal per ordinadors i equips electrònics.](./img/imatge01.png)](./img/imatge01.png)
