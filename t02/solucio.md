@@ -80,6 +80,7 @@ S’ha calculat que la potència total dels equips és de **900 W**, afegint un 
 Recomano personalment el **Tecnoware Era Plus** per la seva potència i autonomia suficient, que garanteix un ús prolongat sense problemes.  
 A més, ofereix una **relació qualitat-preu molt interessant**, ja que no té un preu molt elevat però manté bones característiques comparat amb altres opcions.
 
+---
 
 ![Tecnoware UPS ERA Plus 1500](./img/imatge01.png)
 
