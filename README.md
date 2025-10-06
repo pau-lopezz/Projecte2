@@ -1,4 +1,4 @@
-# 🌿 EverPia
+# EverPia
 
 **EverPia** és una plataforma digital dedicada a la preservació i difusió del patrimoni natural i cultural.  
 Mitjançant un mapa interactiu i una comunitat activa, permet descobrir espais d’interès ecològic i històric, compartir informació i contribuir a la seva protecció.  
