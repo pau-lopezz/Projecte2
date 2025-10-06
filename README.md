@@ -3,32 +3,37 @@
 
 # 🌿 **EverPia**
 
-**EverPia** es un espacio digital creado para **conectar ideas, personas y proyectos** en torno a la colaboración, la creatividad y el crecimiento sostenible.  
-Un lugar donde la innovación se une con la comunidad. 💡
+**EverPia** és un espai digital creat per **connectar idees, persones i projectes** al voltant de la col·laboració, la creativitat i el creixement sostenible.  
+Un lloc on la innovació es troba amb la comunitat. 💡
 
 ---
 
-## ✨ **Características principales**
+## ✨ **Característiques principals**
 
-- **Interfaz simple** y fluida para todos los usuarios.  
-- **Colaboración en tiempo real** entre equipos.  
-- **Personalización total** según tus necesidades.  
-- Compromiso con la **sostenibilidad** y la **ética digital**.
-
----
-
-## 🚀 **Comienza en pocos pasos**
-
-1. Crea tu cuenta.  
-2. Configura tu espacio.  
-3. Invita a tu equipo y empieza a construir juntos.  
+- **Interfície senzilla** i fluida per a tothom.  
+- **Col·laboració en temps real** entre equips.  
+- **Personalització total** segons les teves necessitats.  
+- Compromís amb la **sostenibilitat** i l’**ètica digital**.
 
 ---
 
-## 🤝 **Colabora**
+## 🚀 **Com començar**
 
-Aporta tus ideas, mejora el proyecto o comparte tu experiencia.  
-Cada contribución hace crecer a **EverPia** 🌍
+1. Crea el teu compte.  
+2. Configura el teu espai.  
+3. Convida el teu equip i comenceu a construir plegats.  
+
+---
+
+## 🤝 **Col·labora**
+
+Aporta les teves idees, millora el projecte o comparteix la teva experiència.  
+Cada contribució fa créixer **EverPia** 🌍
+
+---
+
+> _Un projecte viu, obert i en constant evolució._  
+> **Benvingut/da a EverPia.**
 
 
 - [Tasca 02](t02)
