@@ -20,8 +20,8 @@
 
 | Dispositiu | Potència (W) | Potència (VA) |
 |-------------|---------------|----------------|
-| x4 [Ordinador HP](https://www.hp.com/es-es/shop/product.aspx?id=BY7B5ET&opt=ABE&sel=DTP) (+ components) | 150 W | 188 VA |
-| x4 [Monitor HP](https://www.hp.com/es-es/shop/product.aspx?id=65P58AA&opt=ABB&sel=MTO) | 20 W | 25 VA |
+| [x4 Ordinador HP](https://www.hp.com/es-es/shop/product.aspx?id=BY7B5ET&opt=ABE&sel=DTP) [(+ components)](https://www.hp.com/es-es/shop/product.aspx?id=18H24AA&opt=ABE&sel=ACC) | 150 W | 188 VA |
+| [x4 Monitor HP](https://www.hp.com/es-es/shop/product.aspx?id=65P58AA&opt=ABB&sel=MTO) | 20 W | 25 VA |
 | [Impressora multifunció](https://www.pccomponentes.com/brother-dcp-l3560cdw-multifuncion-laser-led-color-wifi-duplex) | 150 W (estimat) | 188 VA |
 | [Router d’accés a Internet](https://www.amazon.es/TP-Link-AC1200-Router-doble-banda/dp/B08GDC3534?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1AT7YVPFBWXBL&language=es_ES&th=1) | 12 W | 15 VA |
 
