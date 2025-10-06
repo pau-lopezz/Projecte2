@@ -37,8 +37,8 @@ Cada contribució fa créixer **EverPia** 🌍
 
 ---
 
-### 🗂 **Tasques disponibles**
-- 🔹 [**Tasca 02**](t02)  
-- 🔹 [**Tasca 03**](t03)
+## 🗂 **Tasques disponibles**
+### 🔹 [**Tasca 02**](t02)  
+### 🔹 [**Tasca 03**](t03)
 
 ---
