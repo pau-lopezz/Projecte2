@@ -1,10 +1,9 @@
 # Projecte 2
 ## Introducció: EverPia
 
-**EverPia** és una plataforma digital dedicada a la preservació i difusió del patrimoni natural i cultural.  
-Mitjançant un mapa interactiu i una comunitat activa, permet descobrir espais d’interès ecològic i històric, compartir informació i contribuir a la seva protecció.  
-
-L’objectiu d’EverPia és connectar persones amb el territori, fomentant el coneixement i el respecte pel nostre entorn a través de la tecnologia i la col·laboració oberta.
-
+Us donem la benvinguda a la vostra nova aventura professional a EverPia, una consultora IT pionera 
+en solucions tecnològiques innovadores. 
+Avui comenceu el vostre viatge com a consultors júnior en una empresa 
+nascuda de la passió per la tecnologia i l'educació.
 - [Tasca 02](t02)
 - [Tasca 03](t03)
