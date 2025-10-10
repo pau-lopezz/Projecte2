@@ -42,3 +42,11 @@ Han arribat a la consultora un equip d’un client. Tenen un **portàtil amb Zor
    - Captures d’imatges dels passos rellevants (pantalla del GRUB, comandes usades, resultats).
    - Documentar comandes i configuracions utilitzades.
    - Pujar el document final (amb imatges i explicacions) al repositori corresponent.
+  
+     ---
+
+  ## Solució
+
+  Teniu la solució en l'arxiu del següent enllaç : [Solució](solucio.md)
+  
+  [← Tornar a la pàgina del projecte](../README.md)
