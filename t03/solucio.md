@@ -8,6 +8,7 @@ Un cop accedim al menú principal, hem de seleccionar **la primera opció** que 
 
 
 Quan apareix el menú a la pantalla, hem de seleccionar **la segona opció disponible**, que correspon al **mode de recuperació**.
+
 ![](./img/img2.png)
 
 
