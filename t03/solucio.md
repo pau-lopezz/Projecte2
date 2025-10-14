@@ -34,7 +34,7 @@ cut -d: -f1 /etc/passwd
 
 ![](./img/img5.png)
 
-(Nova contrasenya: usuari1234)
+#### (Nova contrasenya: usuari1234)
 ---
 
 Un cop acabats tots els canvis, podem reiniciar el sistema fàcilment escrivint la comanda **reboot**. Això farà que l’equip es reiniciï i arrenqui amb les noves configuracions aplicades.
