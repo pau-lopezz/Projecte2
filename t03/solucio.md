@@ -103,3 +103,5 @@ Finalment, per aplicar els canvis i actualitzar la configuració del GRUB, cal e
 ## 📚 FONTS D’INFORMACIÓ
 - [Font d'informació 1](https://geekland.eu/proteger-el-grub-con-contrasena/)
 - [Font d'informació 2](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/)
+
+---
