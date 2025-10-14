@@ -27,13 +27,14 @@ Per arreglar-ho, hem de posar el sistema en **mode lectura i escriptura** abans 
 
 ---
 
-Ara ja podem canviar sense problemes la contrasenya de l’usuari que vulguem, la del **root**, o fins i tot **crear un usuari nou**. Si no sabem exactament quin és el nom d’usuari, podem utilitzar aquest comandament per veure tots els usuaris del sistema: (Nova contrasenya: usuari1234)
+Ara ja podem canviar sense problemes la contrasenya de l’usuari que vulguem, la del **root**, o fins i tot **crear un usuari nou**. Si no sabem exactament quin és el nom d’usuari, podem utilitzar aquest comandament per veure tots els usuaris del sistema: 
 ```bash
 cut -d: -f1 /etc/passwd 
 ```
 
 ![](./img/img5.png)
 
+(Nova contrasenya: usuari1234)
 ---
 
 Un cop acabats tots els canvis, podem reiniciar el sistema fàcilment escrivint la comanda **reboot**. Això farà que l’equip es reiniciï i arrenqui amb les noves configuracions aplicades.
