@@ -16,7 +16,7 @@ Dins del menú de recuperació, seleccionarem l’opció anomenada **root**, que
 Tenim el terminal obert en **mode root**, però si intentem canviar la contrasenya amb `passwd`, surt un error perquè el sistema està en **mode només lectura**.  
 Per arreglar-ho, hem de posar el sistema en **mode lectura i escriptura** abans de canviar la contrasenya.
 
-!![](./img/img4.png)
+![](./img/img4.png)
 
 Ara ja podem canviar sense problemes la contrasenya de l’usuari que vulguem, la del **root**, o fins i tot **crear un usuari nou**.  
 Si no sabem exactament quin és el nom d’usuari, podem utilitzar aquest comandament per veure tots els usuaris del sistema:
@@ -24,6 +24,7 @@ Si no sabem exactament quin és el nom d’usuari, podem utilitzar aquest comand
 ```bash
 **cut -d: -f1 /etc/passwd** 
 Nova contrasenya: usuari1234
+```
 
 !![](./img/img5.png)
 
