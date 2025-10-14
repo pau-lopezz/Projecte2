@@ -78,7 +78,7 @@ Per solucionar-ho, cal generar un hash que amagui aquestes contrasenyes.
 ---
 
 Després d’executar l’ordre per generar el hash, la terminal sol·licita la contrasenya i cal introduir-la dues vegades.
-S’ha de fer per a l’usuari miquel i, després, per root; en prémer Enter la terminal genera el hash (no es mostra el hash en el text).
+S’ha de fer per a l’usuari miquel i, després, per root; en prémer Enter la terminal genera el hash.
 
 ![](./img/img9.png)
 
