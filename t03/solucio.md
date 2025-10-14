@@ -50,17 +50,16 @@ Per definir els usuaris i les contrasenyes que podran utilitzar la línia de com
 
 Un cop hem obert l’editor de text nano, ens desplacem fins al final del fitxer i hi afegim la llista d’usuaris i contrasenyes introduint el següent text:
 
----
+
 
 ```bash
-Copia el codi
 cat << EOF
 set superusers="root,miquel"
 password root 1234
 password miquel 4321
 EOF
 ```
----
+
 
 ---
 
