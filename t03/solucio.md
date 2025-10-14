@@ -27,12 +27,7 @@ Nova contrasenya: usuari1234
 
 !![](./img/img5.png)
 
-Un cop acabats tots els canvis, podem reiniciar el sistema fàcilment escrivint la comanda:
-
-bash
-Copia el codi
-reboot
-Això farà que l’equip es reiniciï i arrenqui amb les noves configuracions aplicades.
+Un cop acabats tots els canvis, podem reiniciar el sistema fàcilment escrivint la comanda **reboot**. Això farà que l’equip es reiniciï i arrenqui amb les noves configuracions aplicades.
 
 ---
 
