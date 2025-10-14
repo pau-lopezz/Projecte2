@@ -18,15 +18,14 @@ Per arreglar-ho, hem de posar el sistema en **mode lectura i escriptura** abans 
 
 ![](./img/img4.png)
 
-Ara ja podem canviar sense problemes la contrasenya de l’usuari que vulguem, la del **root**, o fins i tot **crear un usuari nou**.  
-Si no sabem exactament quin és el nom d’usuari, podem utilitzar aquest comandament per veure tots els usuaris del sistema:
+Ara ja podem canviar sense problemes la contrasenya de l’usuari que vulguem, la del **root**, o fins i tot **crear un usuari nou**. Si no sabem exactament quin és el nom d’usuari, podem utilitzar aquest comandament per veure tots els usuaris del sistema:
 
 ```bash
-**cut -d: -f1 /etc/passwd** 
+cut -d: -f1 /etc/passwd 
 Nova contrasenya: usuari1234
 ```
 
-!![](./img/img5.png)
+![](./img/img5.png)
 
 Un cop acabats tots els canvis, podem reiniciar el sistema fàcilment escrivint la comanda **reboot**. Això farà que l’equip es reiniciï i arrenqui amb les noves configuracions aplicades.
 
@@ -35,7 +34,7 @@ Un cop acabats tots els canvis, podem reiniciar el sistema fàcilment escrivint 
 ## FORTIFICACIÓ ACCÉS GRUB
 Per definir els usuaris i les contrasenyes que podran utilitzar la línia de comandes del GRUB, així com executar i editar les seves entrades, primer hem d’obrir una terminal i executar la comanda següent:
 
-!![](./img/img6.png)
+![](./img/img6.png)
 
 Un cop hem obert l’editor de text nano, ens desplacem fins al final del fitxer i hi afegim la llista d’usuaris i contrasenyes introduint el següent text:
 
