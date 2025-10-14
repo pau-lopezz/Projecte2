@@ -7,8 +7,7 @@ Un cop accedim al menú principal, hem de seleccionar **la primera opció** que 
 ![](./img/img1.png)
 
 
-Quan apareix el menú a la pantalla, hem de seleccionar **la segona opció disponible**, que correspon al **mode de recuperació**.
-![](./img/img2.png)
+Quan apareix el menú a la pantalla, hem de seleccionar **la segona opció disponible**, que correspon al **mode de recuperació**. ![](./img/img2.png)
 
 
 Dins del menú de recuperació, seleccionarem l’opció anomenada **root**, que en versions anteriors del sistema podia aparèixer amb el nom de **netroot**.  Aquesta opció ens permetrà accedir al sistema amb permisos d’administrador per fer canvis avançats.
