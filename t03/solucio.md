@@ -4,6 +4,7 @@ Arrenquem la màquina virtual mantenint premut **Shift** per accedir al mode **G
 
 
 Un cop accedim al menú principal, hem de seleccionar **la primera opció** que apareix a la llista, ja que aquesta ens permetrà accedir a les opcions avançades del sistema.
+
 ![](./img/img1.png)
 
 ---
@@ -86,7 +87,7 @@ S’ha de fer per a l’usuari miquel i, després, per root; en prémer Enter la
 
 Un cop hem obtingut els hash, només cal substituir la contrasenya creada pel hash. Per fer-ho, obrim la terminal d’abans (sudo nano /etc/grub.d/00_header) i executem la comanda corresponent.
 
-!![](./img/img10.png)
+![](./img/img10.png)
 
 ---
 
@@ -96,9 +97,9 @@ Finalment, per aplicar els canvis i actualitzar la configuració del GRUB, cal e
 ---
 
 ## 🎥 ENLLAÇ VIDEO COMPROVACIÓ
-[Enllaç video comprovació](https://drive.google.com/file/d/1uMsfTNb0t25CtGzDwg22LnQSt3EKn-am/view?usp=sharing)
+- [Enllaç video comprovació](https://drive.google.com/file/d/1uMsfTNb0t25CtGzDwg22LnQSt3EKn-am/view?usp=sharing)
 
 
 ## 📚 FONTS D’INFORMACIÓ
-[Font d'informació 1](https://geekland.eu/proteger-el-grub-con-contrasena/)
-[Font d'informació 2](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/)
+- [Font d'informació 1](https://geekland.eu/proteger-el-grub-con-contrasena/)
+- [Font d'informació 2](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/)
