@@ -105,3 +105,5 @@ Finalment, per aplicar els canvis i actualitzar la configuració del GRUB, cal e
 - [Font d'informació 2](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/)
 
 ---
+[← Torna a enunciat](README.md)
+
