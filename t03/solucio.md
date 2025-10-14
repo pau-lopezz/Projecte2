@@ -27,10 +27,9 @@ Per arreglar-ho, hem de posar el sistema en **mode lectura i escriptura** abans 
 
 ---
 
-Ara ja podem canviar sense problemes la contrasenya de l’usuari que vulguem, la del **root**, o fins i tot **crear un usuari nou**. Si no sabem exactament quin és el nom d’usuari, podem utilitzar aquest comandament per veure tots els usuaris del sistema:
+Ara ja podem canviar sense problemes la contrasenya de l’usuari que vulguem, la del **root**, o fins i tot **crear un usuari nou**. Si no sabem exactament quin és el nom d’usuari, podem utilitzar aquest comandament per veure tots els usuaris del sistema: (Nova contrasenya: usuari1234)
 ```bash
 cut -d: -f1 /etc/passwd 
-Nova contrasenya: usuari1234
 ```
 
 ![](./img/img5.png)
