@@ -3,7 +3,7 @@
 Arrenquem la màquina virtual mantenint premut **Shift** per accedir al mode **Grub**.  
 Un cop accedim al menú principal, hem de seleccionar **la primera opció** que apareix a la llista, ja que aquesta ens permetrà accedir a les opcions avançades del sistema.
 
-![img1](./t03/img1.png) 
+![](./t03/img1.png) 
 
 Quan apareix el menú a la pantalla, hem de seleccionar **la segona opció disponible**, que correspon al **mode de recuperació**.
 
